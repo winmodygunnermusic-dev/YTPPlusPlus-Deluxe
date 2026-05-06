@@ -1,0 +1,16 @@
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Legacy\YTP++.csprojResolveAssemblyReference.cache
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Legacy\YTPDeluxe.AboutBox.resources
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Legacy\YTPDeluxe.Main.resources
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Legacy\YTPDeluxe.Properties.Resources.resources
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Legacy\YTP++.csproj.GenerateResource.Cache
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Legacy\YTP++ Deluxe.exe.config
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Legacy\YTP++ Deluxe.exe
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Legacy\YTP++ Deluxe.pdb
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Legacy\mscorlib.dll
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Legacy\normidna.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Legacy\normnfc.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Legacy\normnfd.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Legacy\normnfkc.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Legacy\normnfkd.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Legacy\YTP++ Deluxe.exe
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Legacy\YTP++ Deluxe.pdb

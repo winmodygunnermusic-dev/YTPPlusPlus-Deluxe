@@ -1,0 +1,16 @@
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Modern\YTP++ Deluxe.exe.config
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Modern\YTP++ Deluxe.exe
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Modern\YTP++ Deluxe.pdb
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Modern\mscorlib.dll
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Modern\normidna.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Modern\normnfc.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Modern\normnfd.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Modern\normnfkc.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\bin\YTP++ Modern\normnfkd.nlp
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Modern\YTP++.csprojResolveAssemblyReference.cache
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Modern\YTPDeluxe.AboutBox.resources
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Modern\YTPDeluxe.Main.resources
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Modern\YTPDeluxe.Properties.Resources.resources
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Modern\YTP++.csproj.GenerateResource.Cache
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Modern\YTP++ Deluxe.exe
+C:\Users\windowsbabyalive2026\Documents\New project 4\YTP++\YTP++\obj\YTP++ Modern\YTP++ Deluxe.pdb
